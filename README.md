@@ -1,7 +1,7 @@
 Live Demo : https://shashankrb031.github.io/GuideToCode/
 
 
-Guide2Code
+
 Guide2Code is a comprehensive collection of subject-specific roadmaps and structured study paths designed to help students and aspiring developers understand and master key concepts in Computer Science and Information Technology. This project focuses purely on theoretical content, offering a well-organized and easy-to-follow guide for academic and self-learning purposes.
 
 🚀 Features
